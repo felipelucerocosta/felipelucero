@@ -1,0 +1,66 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #7e0606;
+    color: #750000;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #740a0a;
+    padding: 1em 0;
+    margin-bottom: 2em;
+}
+
+header h1 {
+    font-size: 2.5em;
+}
+
+.main {
+    padding: 0 15px;
+}
+
+.search-bar {
+    margin-bottom: 2em;
+}
+
+
+.section {
+    margin-bottom: 3em;
+}
+
+.profile {
+    border: 1px solid #888888;
+    border-radius: 5px;
+    padding: 1em;
+    margin-bottom: 2em;
+}
+
+.profile h3 {
+    margin-top: 0;
+    font-size: 1.5em;
+}
+
+.profile p {
+    margin-bottom: 1em;
+}
+
+.image-profile {
+    text-align: center;
+}
+
+.image-profile img {
+    border: 5px solid #000000;
+    border-radius: 5px;
+}
+
+footer {
+    background-color: #333333;
+    color: #740404;
+    text-align: center;
+    padding: 1em 0;
+}
+
+footer p {
+    margin: 0;
+}
